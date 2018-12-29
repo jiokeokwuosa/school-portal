@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /books
+Disallow: /classes
+Disallow: /css
+Disallow: /fonts
+Disallow: /image
+Disallow: /images
+Disallow: /js
+
